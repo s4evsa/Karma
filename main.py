@@ -3,7 +3,7 @@ from os import system, name
 import os, threading, requests, sys, cloudscraper, datetime, time, socket, socks, ssl, random, httpx
 from urllib.parse import urlparse
 from requests.cookies import RequestsCookieJar
-import undetected_chromedriver as webdriver
+#import undetected_chromedriver as webdriver
 from sys import stdout
 from colorama import Fore, init
 
